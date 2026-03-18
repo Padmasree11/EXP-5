@@ -32,7 +32,8 @@ OBSERVATIONS:
 LINE REGULATION CHARACTERISTICS:
 ![alt text](<WhatsApp Image 2026-03-18 at 2.10.09 PM.jpeg>)
 LOAD REGULATION CHARACTERISTICS:
-![alt text](image.png)
+![WhatsApp Image 2026-03-18 at 2 24 35 PM](https://github.com/user-attachments/assets/3293256e-15dc-42b5-b5e3-046e38cd564d)
+
 ![WhatsApp Image 2026-03-18 at 2 20 33 PM](https://github.com/user-attachments/assets/deed934c-9b54-473a-9868-87adb6526231)
 
 
